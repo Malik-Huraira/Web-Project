@@ -1,0 +1,29 @@
+.card-main{
+    background-color: rgb(252, 251, 251);
+    width: 310px;
+}
+.card-container{
+    border-radius: 20px;
+    padding: 15px;;
+    width: 300px;
+    margin: 5px;
+    background-color:rgb(255, 255, 255);
+}
+.card-hr{
+    margin-top: 5px;
+}
+.card-items{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    justify-content: flex-start;
+}
+
+.card-text{
+    display: block;
+}
+.card-item-text .icon-card{
+    font-size: 20px;
+}

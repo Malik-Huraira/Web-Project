@@ -1,0 +1,13 @@
+.grid__item{
+    border: 1px solid rgb(226, 216, 216);
+    margin-top: 20px;
+    background-color: rgb(255, 253, 231);
+}
+.Heading{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Status{
+    color: red;
+}

@@ -1,0 +1,9 @@
+.footer{
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+}
+.Container{
+    background-color: rgb(248, 246, 246);
+}

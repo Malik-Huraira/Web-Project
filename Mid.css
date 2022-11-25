@@ -1,0 +1,16 @@
+.Image2{
+   display: flex;
+   flex-direction: column;
+}
+.s-Img{
+    width: 200px;
+    height: 120px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.Mid_four
+{
+    display: flex;
+    width:300px;
+    
+}
